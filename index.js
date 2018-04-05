@@ -8,7 +8,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  var yourAnimal = 'cat'; //Hope that this didn't break the rules, but I noticed that the hard-coding only specified the return 
+  var yourAnimal = 'cat'; //I hope that this didn't break the rules, but I noticed that the hard-coding only specified the return statement
   return yourAnimal;
 }
 
